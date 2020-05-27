@@ -1,13 +1,7 @@
-var express     = require('express');
-var herokuProxy = require('heroku-proxy');
-var app         = express();
+var proxy = require('express-http-proxy');
+var app = require('express')();
 
-app.use(herokuProxy({
-    hostname: 'work.moonshine.tw',
-    port    : 9978,
-    prefix  : 'goto',
-    protocol: 'http'
-}));
+app.use('/', proxy('work.moonshine.tw:9978'));
 
 const PORT = process.env.PORT || 5000;
 

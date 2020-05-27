@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f44b5d-d5cd-4c3d-b6cf-46429fc73758" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -64,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590581220869</updated>
       <workItem from="1590581222040" duration="55000" />
-      <workItem from="1590581283216" duration="780000" />
+      <workItem from="1590581283216" duration="1549000" />
     </task>
     <servers />
   </component>
@@ -76,21 +82,25 @@
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="591" y="346" key="#com.intellij.fileTypes.FileTypeChooser/56.23.1624.1027@56.23.1624.1027" timestamp="1590581394433" />
-    <state width="1603" height="280" key="GridCell.Tab.0.bottom" timestamp="1590582373971">
-      <screen x="55" y="23" width="1625" height="1027" />
+    <state width="1659" height="280" key="GridCell.Tab.0.bottom" timestamp="1590583258327">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590583258327" />
     <state width="1603" height="280" key="GridCell.Tab.0.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373971" />
-    <state width="1603" height="280" key="GridCell.Tab.0.center" timestamp="1590582373970">
-      <screen x="55" y="23" width="1625" height="1027" />
+    <state width="1659" height="280" key="GridCell.Tab.0.center" timestamp="1590583258326">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590583258326" />
     <state width="1603" height="280" key="GridCell.Tab.0.center/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373970" />
-    <state width="1603" height="280" key="GridCell.Tab.0.left" timestamp="1590582373969">
-      <screen x="55" y="23" width="1625" height="1027" />
+    <state width="1659" height="280" key="GridCell.Tab.0.left" timestamp="1590583258326">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590583258326" />
     <state width="1603" height="280" key="GridCell.Tab.0.left/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373969" />
-    <state width="1603" height="280" key="GridCell.Tab.0.right" timestamp="1590582373970">
-      <screen x="55" y="23" width="1625" height="1027" />
+    <state width="1659" height="280" key="GridCell.Tab.0.right" timestamp="1590583258327">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590583258327" />
     <state width="1603" height="280" key="GridCell.Tab.0.right/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373970" />
     <state x="369" y="175" key="SettingsEditor" timestamp="1590581276581">
       <screen x="56" y="23" width="1624" height="1027" />
