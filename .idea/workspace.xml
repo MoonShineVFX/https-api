@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7f44b5d-d5cd-4c3d-b6cf-46429fc73758" name="Default Changelist" comment="" />
+    <list default="true" id="a7f44b5d-d5cd-4c3d-b6cf-46429fc73758" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cURWvUtOJHWhPS8mCWyVFLlFKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +31,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590581220869</updated>
       <workItem from="1590581222040" duration="55000" />
-      <workItem from="1590581283216" duration="341000" />
+      <workItem from="1590581283216" duration="780000" />
     </task>
     <servers />
   </component>
@@ -48,6 +76,22 @@
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="591" y="346" key="#com.intellij.fileTypes.FileTypeChooser/56.23.1624.1027@56.23.1624.1027" timestamp="1590581394433" />
+    <state width="1603" height="280" key="GridCell.Tab.0.bottom" timestamp="1590582373971">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1603" height="280" key="GridCell.Tab.0.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373971" />
+    <state width="1603" height="280" key="GridCell.Tab.0.center" timestamp="1590582373970">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1603" height="280" key="GridCell.Tab.0.center/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373970" />
+    <state width="1603" height="280" key="GridCell.Tab.0.left" timestamp="1590582373969">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1603" height="280" key="GridCell.Tab.0.left/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373969" />
+    <state width="1603" height="280" key="GridCell.Tab.0.right" timestamp="1590582373970">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1603" height="280" key="GridCell.Tab.0.right/55.23.1625.1027@55.23.1625.1027" timestamp="1590582373970" />
     <state x="369" y="175" key="SettingsEditor" timestamp="1590581276581">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
