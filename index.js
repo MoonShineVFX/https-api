@@ -11,7 +11,7 @@ app.use(cors({
     origin: allowOrigins,
     credentials: true
 }));
-app.use('/', proxy('work.moonshine.tw:9978'));
+app.use('/', proxy(process.env.serverAddress));
 
 const PORT = process.env.PORT || 5000;
 
