@@ -3,12 +3,12 @@ var app = require('express')();
 var cors = require('cors');
 
 
+const allowOrigins = process.env.allowOrigins.split(',');
+console.log('Allow origins:');
+console.log(allowOrigins);
+
 app.use(cors({
-    origin: [
-        'http://jo-ding.web.app',
-        'https://jo-ding.web.app',
-        'http://localhost:5000',
-    ],
+    origin: allowOrigins,
     credentials: true
 }));
 app.use('/', proxy('work.moonshine.tw:9978'));
