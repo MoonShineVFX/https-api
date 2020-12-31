@@ -11,7 +11,7 @@ app.use(cors({
     origin: allowOrigins,
     credentials: true
 }));
-app.use('/', proxy(process.env.serverAddress));
+app.use('/', proxy(process.env.serverAddress, {https: true}));
 
 const PORT = process.env.PORT || 5000;
 
